@@ -1,4 +1,27 @@
-
+---
+jupyter:
+  jupytext:
+    notebook_metadata_filter: all
+    text_representation:
+      extension: .md
+      format_name: markdown
+      format_version: '1.1'
+      jupytext_version: 1.1.1
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+  plotly:
+    description: Customer Segmentation.
+    display_as: maps
+    language: python
+    layout: base
+    name: Customer Segmentation
+    order: 8
+    page_type: u-guide
+    permalink: python/choropleth-maps/
+    thumbnail: [thumbnail/choropleth.jpg](https://www.cloudways.com/blog/wp-content/uploads/Ecommerce-Shopping-Infographics.png)
+---
 # Customer segmentation with E-Commerce Data
 
 
